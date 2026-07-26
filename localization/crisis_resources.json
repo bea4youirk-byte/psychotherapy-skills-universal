@@ -1,0 +1,13 @@
+{
+  "schema": "psychotherapy-skills-universal.crisis-resources.v1",
+  "default": {
+    "emergency_number": "CONFIGURE_FOR_REGION",
+    "suicide_crisis_line": "CONFIGURE_FOR_REGION",
+    "domestic_violence_line": "CONFIGURE_FOR_REGION",
+    "child_protection": "CONFIGURE_FOR_REGION",
+    "poison_control": "CONFIGURE_FOR_REGION",
+    "last_verified": "YYYY-MM-DD",
+    "notes": "Не выдумывать контакты. Проверять по официальным источникам."
+  },
+  "regions": {}
+}

@@ -1,0 +1,10 @@
+{
+  "name": "psychotherapy-skills-universal",
+  "version": "0.1.0",
+  "created": "2026-07-26",
+  "language": "ru",
+  "skills_count": 38,
+  "clinical_claim": false,
+  "portable": true,
+  "entrypoint": "SKILL.md"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "chatgpt-self-psychology-skill",
+  "version": "1.0.0",
+  "created": "2026-07-26",
+  "language": "ru",
+  "source_pack": "psychotherapy-skills-universal-ru-v0.1.0",
+  "persistent_core_model_change": false
+}
